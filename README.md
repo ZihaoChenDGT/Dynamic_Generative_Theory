@@ -64,9 +64,8 @@ Chenzihao-dynamic/
 ├── paper/                              # Core theory paper and manuscripts
 ├── models/                             # Core mathematical models and derivations
 ├── empirical/                          # Research log and records of thought experiments
-├── universal simulation（宇宙模拟）.py  # Main cosmological simulation code
-├── 八个可被实验检验的预言                # Detailed list of eight predictions
-├── 新旧范式术语对照-TERMINOLOGY.md       # Terminology translation guide
+├── simulation on py/                   # Main cosmological simulation code
+├── eight testable predictions/         # Detailed list of eight predictions
 └── (Other cross-disciplinary works on generative complexity, origins of life, and theories of intelligence are developed separately.)
 ```
 
